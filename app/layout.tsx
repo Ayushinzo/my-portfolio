@@ -5,14 +5,14 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'John Doe - Web Developer Portfolio',
+  title: 'Ayush Shembekar - Web Developer Portfolio',
   description: 'Professional portfolio of John Doe, a passionate web developer specializing in React, Next.js, and full-stack development.',
   keywords: 'web developer, portfolio, React, Next.js, full-stack, JavaScript, TypeScript',
-  authors: [{ name: 'John Doe' }],
+  authors: [{ name: 'Ayush Shembekar' }],
   creator: 'John Doe',
   openGraph: {
     type: 'website',
-    title: 'John Doe - Web Developer Portfolio',
+    title: 'Ayush Shembekar - Web Developer Portfolio',
     description: 'Professional portfolio showcasing web development projects and skills',
     siteName: 'John Doe Portfolio',
   },
