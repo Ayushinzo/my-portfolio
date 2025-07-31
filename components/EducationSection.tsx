@@ -7,7 +7,7 @@ const EducationSection = () => {
   const education = [
     {
       degree: 'BCA (Bachelor of Computer Application)',
-      institution: 'Kamla Nehru Mahavidyalaya',
+      institution: 'Nagpur University',
       location: 'Nagpur, Maharashtra',
       period: '2021 - 2024',
       achievements: [
